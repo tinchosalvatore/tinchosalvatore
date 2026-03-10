@@ -86,10 +86,6 @@
 ---
 
 ## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinchosalvatore&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinchosalvatore&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinchosalvatore&theme=tokyonight&hide_border=true&bg_color=0D1117" />
