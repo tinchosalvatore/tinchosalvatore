@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="https://www.salvatoreinformatics.com.ar" target="_blank">
+    <img src="salvatore%20informatics%20no_background.png" width="180" alt="Salvatore Informatics" />
+  </a>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=2000&color=2196F3&center=true&vCenter=true&width=600&lines=Hola,+soy+Martin+Salvatore!" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=2196F3&center=true&vCenter=true&width=600&lines=Freelance+Developer+en+Salvatore+Informatics;Backend+%C2%B7+Frontend+%C2%B7+ML" />
@@ -9,8 +13,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/tinchosalvatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tinchosalvatore" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/Martin%20Salvatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martin Salvatore" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/martin-salvatoree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martin Salvatore" height="30" width="40" /></a>
   <a href="https://instagram.com/tinchosalvatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinchosalvatore" height="30" width="40" /></a>
 </div>
 
